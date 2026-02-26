@@ -1,4 +1,6 @@
-## OATS-MCS: Monte Carlo Sampling Extension for OATS
+## OATS-MCS: SCOPF Monte Carlo Sampling Framework
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18792808.svg)](https://doi.org/10.5281/zenodo.18792808) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 **Version:** v1.0.0
 **Release Date:** February 2026
@@ -229,7 +231,7 @@ This project consists of three core original contributions. If you use any of th
 
 If you use the **IEEE-24R** dataset, the **OATS-MCS** sampling/validation logic, or the **OATS-ML** training code, please cite this work as follows:
 
-> He, R. (2026). OATS-MCS: Monte Carlo Sampling Extension, IEEE-24R Dataset, and Neural Network Proxy Workflow for Preventive DC-SCOPF [Software/Dataset]. GitHub repository: https://github.com/Norman29088/oats-mcs
+> R. He, “OATS-MCS: SCOPF Monte Carlo Sampling Framework,” Zenodo, 2026. [Online]. Available: https://doi.org/10.5281/zenodo.18792808
 
 ------
 
