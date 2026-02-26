@@ -1,0 +1,23 @@
+name: oatsmcs_nn
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy=1.26.4
+  - scipy=1.13.1
+  - pandas=2.2.2
+  - pyarrow=16.1.0
+  - openpyxl=3.1.5
+  - scikit-learn=1.6.1
+  - pytorch=2.5.1
+  - pytorch-cuda=12.4
+  - torchvision=0.20.1
+  - torchaudio=2.5.1
+  - pip
+  - pip:
+      - Pyomo==6.9.2
+      - tqdm==4.67.1
+      - xlsxwriter==3.1.1
+

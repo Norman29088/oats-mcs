@@ -1,0 +1,16 @@
+
+name: oatsmcs
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11.10
+  - pip
+  - numpy=1.26.4
+  - scipy=1.13.1
+  - pandas=2.2.2
+  - pyarrow=16.1.0
+  - pytables=3.10.2
+  - openpyxl=3.1.5
+  - pip:
+      - -r requirements.txt
